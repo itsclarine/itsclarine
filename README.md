@@ -1,16 +1,27 @@
-## Hi there 👋
+# 🖖Clarine Souza!  
 
-<!--
-**itsclarine/itsclarine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **`Estudante de Desenvolvimento de Sistemas |🎓 Ensino Médio Integrado ao Técnico`**  
+📍 Brasil | ☕ Café + Código = 💡 Ideias
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎈 Sobre mim
+#### Olá! Sou a Clarine, tenho 16 anos e estou começando minha trajetória no mundo da tecnologia. Estudo **Desenvolvimento de Sistemas** integrado ao Ensino Médio e acredito que cada novo aprendizado é um passo rumo ao futuro que quero construir.  
+
+---
+
+### 🔧 Ferramentas Que Eu Utilizo
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🌱 Minhas Estatísticas
+![Clarine's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsclarine&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsclarine&layout=compact&theme=tokyonight)
+---
+
+> *"Cada linha de código é um passo na construção do meu futuro."*
+
