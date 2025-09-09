@@ -11,7 +11,9 @@
 ---
 
 #### 🔧 Ferramentas Que Eu Utilizo
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![Python](https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
 
 
 ---
