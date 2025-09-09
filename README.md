@@ -21,9 +21,10 @@
 ---
 
 #### 🌱 Minhas Estatísticas
-![Clarine's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsclarine&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsclarine&layout=compact&theme=tokyonight)
----
+![Clara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsclarine&show_icons=true&title_color=C27B57&icon_color=FFC978&text_color=FFE7BF&bg_color=0D1117&border_color=D1A664)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsclarine&layout=compact&title_color=C27B57&text_color=FFE7BF&bg_color=0D1117&border_color=D1A664)
+
 
 > *"Cada linha de código é um passo na construção do meu futuro."*
 
