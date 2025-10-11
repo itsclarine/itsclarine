@@ -1,4 +1,4 @@
-###🧦 Clarine Souza!  
+### 🧦 Clarine Souza!  
 
 #### **`Estudante de Desenvolvimento de Sistemas |🎓 Ensino Médio Integrado ao Técnico`**  
 #### 📍 Brasil | ☕ Café + Código = 💡 Ideias
